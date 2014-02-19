@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KAKI-HOME</Machine>
+    <WindowsUser>Park</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>8282da27-085b-4929-9e6c-16ac106d1c3b</PackageIdentityName>
+    <RegisteredManifestChecksum>7E375E5F1E71DD45C7C6F285CD3B4B6CAE461B6A86BA39C51323E5A305BC8CE3</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>8282da27-085b-4929-9e6c-16ac106d1c3b_1.0.0.0_neutral__fwsh6bbtd05zt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>8282da27-085b-4929-9e6c-16ac106d1c3b_fwsh6bbtd05zt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>8282da27-085b-4929-9e6c-16ac106d1c3b</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=kaki104</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\DaumCloud\Windows8\RMovie\RMovie.StoreApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-19T14:30:48.510</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\DaumCloud\Windows8\RMovie\RMovie.StoreApp\bin\Debug\RMovie.StoreApp.exe">
+      <PackagePath>RMovie.StoreApp.exe</PackagePath>
+      <Modified>2014-02-19T14:37:05.465</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DaumCloud\Windows8\RMovie\packages\Newtonsoft.Json.4.5.9\lib\winrt45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2012-09-18T08:50:13.613</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DaumCloud\Windows8\RMovie\RMovie.PCL\bin\Debug\RMovie.PCL.dll">
+      <PackagePath>RMovie.PCL.dll</PackagePath>
+      <Modified>2014-02-19T14:29:23.718</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DaumCloud\Windows8\RMovie\packages\SignalR.Client.0.5.3\lib\winrt45\SignalR.Client.dll">
+      <PackagePath>SignalR.Client.dll</PackagePath>
+      <Modified>2012-09-20T07:06:50.713</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DaumCloud\Windows8\RMovie\RMovie.StoreApp\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T11:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DaumCloud\Windows8\RMovie\RMovie.StoreApp\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T11:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DaumCloud\Windows8\RMovie\RMovie.StoreApp\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T11:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DaumCloud\Windows8\RMovie\RMovie.StoreApp\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T11:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DaumCloud\Windows8\RMovie\RMovie.StoreApp\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2011-12-12T13:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DaumCloud\Windows8\RMovie\RMovie.StoreApp\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2011-12-12T13:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DaumCloud\Windows8\RMovie\RMovie.StoreApp\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2011-12-12T13:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DaumCloud\Windows8\RMovie\RMovie.StoreApp\Assets\re5_poster.jpg">
+      <PackagePath>Assets\re5_poster.jpg</PackagePath>
+      <Modified>2012-09-20T08:02:11.427</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DaumCloud\Windows8\RMovie\RMovie.StoreApp\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-09-20T09:39:30.200</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DaumCloud\Windows8\RMovie\RMovie.StoreApp\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-09-21T05:40:50.641</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DaumCloud\Windows8\RMovie\RMovie.StoreApp\bin\Debug\ItemsPage.xaml">
+      <PackagePath>ItemsPage.xaml</PackagePath>
+      <Modified>2012-09-20T07:05:23.071</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DaumCloud\Windows8\RMovie\RMovie.StoreApp\bin\Debug\MainPageView.xaml">
+      <PackagePath>MainPageView.xaml</PackagePath>
+      <Modified>2012-09-20T12:35:39.297</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DaumCloud\Windows8\RMovie\RMovie.StoreApp\bin\Debug\SplitPage.xaml">
+      <PackagePath>SplitPage.xaml</PackagePath>
+      <Modified>2012-09-20T07:05:23.109</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DaumCloud\Windows8\RMovie\RMovie.StoreApp\bin\Debug\Views\DateTimeSelectView.xaml">
+      <PackagePath>Views\DateTimeSelectView.xaml</PackagePath>
+      <Modified>2012-09-20T08:11:05.470</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DaumCloud\Windows8\RMovie\RMovie.StoreApp\bin\Debug\Views\MovieSelectView.xaml">
+      <PackagePath>Views\MovieSelectView.xaml</PackagePath>
+      <Modified>2012-09-20T08:11:09.534</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DaumCloud\Windows8\RMovie\RMovie.StoreApp\bin\Debug\Views\SeatSelectView.xaml">
+      <PackagePath>Views\SeatSelectView.xaml</PackagePath>
+      <Modified>2012-09-20T10:35:15.236</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DaumCloud\Windows8\RMovie\RMovie.StoreApp\bin\Debug\Views\TheaterSelectView.xaml">
+      <PackagePath>Views\TheaterSelectView.xaml</PackagePath>
+      <Modified>2012-09-20T08:10:51.572</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DaumCloud\Windows8\RMovie\RMovie.StoreApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-02-19T14:30:48.325</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

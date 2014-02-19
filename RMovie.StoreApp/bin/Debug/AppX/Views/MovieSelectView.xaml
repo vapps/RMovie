@@ -1,0 +1,62 @@
+﻿<UserControl
+    x:Class="RMovie.StoreApp.Views.MovieSelectView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:RMovie.StoreApp.Views"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="460" d:DesignWidth="400" MinHeight="460" MinWidth="400">
+    
+    <Grid>
+        <TextBlock Text="영화 선택" Style="{StaticResource GroupHeaderTextStyle}" />
+        <StackPanel Margin="0,40,0,0">
+            <Button Content=" - 예매 Best Top 10(34)" HorizontalAlignment="Stretch" HorizontalContentAlignment="Left"/>
+            <TextBlock Margin="0,4" Padding="5,0" >
+            	<Run Text="1위 " Foreground="#FF949393"/>
+            	<Run Text="[15]" Foreground="#FFF7943B"/>
+            	<Run Text="광해, 왕이 된 남자"/>
+            </TextBlock>
+            <TextBlock Margin="0,4" Padding="5,0" >
+            	<Run Text="1위 " Foreground="#FF949393"/>
+            	<Run Text="[15]" Foreground="#FFF7943B"/>
+            	<Run Text="광해, 왕이 된 남자(디지털)"/>
+            </TextBlock>
+            <TextBlock Margin="0,4" Padding="5,0" >
+            	<Run Text="1위 " Foreground="#FF949393"/>
+            	<Run Text="[15]" Foreground="#FFF7943B"/>
+            	<Run Text="광해, 왕이 된 남자(SOUNDX Mix)"/>
+            </TextBlock>
+            <TextBlock Margin="0,4" Padding="5,0" >
+            	<Run Text="2위 " Foreground="#FF949393"/>
+            	<Run Text="[18]" Foreground="#FFFF7D7E"/>
+            	<Run Text="피에타"/>
+            </TextBlock>
+            <TextBlock Margin="0,4" Padding="5,0" >
+            	<Run Text="2위 " Foreground="#FF949393"/>
+            	<Run Text="[18]" Foreground="#FFFF7D7E"/>
+            	<Run Text="피에타(디지털)"/>
+            </TextBlock>
+            <TextBlock Margin="0,4" Padding="5,0" >
+            	<Run Text="2위 " Foreground="#FF949393"/>
+            	<Run Text="[18]" Foreground="#FFFF7D7E"/>
+            	<Run Text="피에타(SOUND X)"/>
+            </TextBlock>
+            <Border Margin="0,4" Background="#FF657FF5" >
+                <TextBlock Padding="5,0" Height="16" >
+            		<Run Text="3위 " Foreground="#FF949393"/>
+            		<Run Text="[18]" Foreground="#FFFF7D7E"/>
+            		<Run Text="레지던트 이블 5 : 최후의 심판" Foreground="White"/>
+                </TextBlock>
+            </Border>
+            <TextBlock Margin="0,4" Padding="5,0" >
+            	<Run Text="3위 " Foreground="#FF949393"/>
+            	<Run Text="[18]" Foreground="#FFFF7D7E"/>
+            	<Run Text="레지던트 이블 5 : 최후의 심판(3D)"/>
+            </TextBlock>
+            <Button Content=" + Top 10외 영화(가나다순)(130)" HorizontalAlignment="Stretch" HorizontalContentAlignment="Left"/>
+            <Button Content=" + 영화제 영화(91)" HorizontalAlignment="Stretch" HorizontalContentAlignment="Left"/>
+        </StackPanel>        
+    </Grid>
+</UserControl>
+

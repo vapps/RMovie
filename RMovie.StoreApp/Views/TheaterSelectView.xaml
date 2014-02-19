@@ -1,0 +1,37 @@
+﻿<UserControl
+    x:Class="RMovie.StoreApp.Views.TheaterSelectView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:RMovie.StoreApp.Views"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="460" d:DesignWidth="400" MinHeight="460" MinWidth="400">
+    
+    <Grid>
+        <TextBlock Text="극장 선택" Style="{StaticResource GroupHeaderTextStyle}" />
+
+        <StackPanel Margin="0,40,0,0">
+            <Button Content=" - 최근 이용극장" HorizontalAlignment="Stretch" HorizontalContentAlignment="Left"/>
+            <TextBlock Text="최근이용극장이 없습니다." HorizontalAlignment="Center" Foreground="#FFAEAEAE" Margin="0,0,0,10"/>
+
+            <Button Content=" - 서울(8)" HorizontalAlignment="Stretch" HorizontalContentAlignment="Left"/>
+            <TextBlock Text="강남구" Padding="5,0" FontWeight="Bold" Margin="0,3"/>
+            <Grid Margin="5,0" Background="#FF657FF5">
+                <TextBlock Text="메가박스 코엑스" Foreground="White" />
+                <TextBlock Text="좌석선택" HorizontalAlignment="Right" Foreground="White" />
+            </Grid>
+            <TextBlock Text="동작구" Padding="5,0" FontWeight="Bold" Margin="0,3"/>
+            <Grid Margin="5,0">
+                <TextBlock Text="메가박스 이수" Margin="0,0,0,1" />
+                <TextBlock Text="좌석선택" HorizontalAlignment="Right"/>
+            </Grid>
+            <Button Content=" + 경기/인천(6)" HorizontalAlignment="Stretch" HorizontalContentAlignment="Left"/>
+            <Button Content=" + 부산/울산/경남(6)" HorizontalAlignment="Stretch" HorizontalContentAlignment="Left"/>
+            <Button Content=" + 대구/경북(6)" HorizontalAlignment="Stretch" HorizontalContentAlignment="Left"/>
+            <Button Content=" + 대전/충청/강원(6)" HorizontalAlignment="Stretch" HorizontalContentAlignment="Left"/>
+            <Button Content=" + 광주/전라/제주(6)" HorizontalAlignment="Stretch" HorizontalContentAlignment="Left"/>
+        </StackPanel>
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,5 @@
+D:\DaumCloud\Windows8\RMovie\RMovie.Silverlight5.Web\bin\RMovie.Silverlight5.Web.dll
+D:\DaumCloud\Windows8\RMovie\RMovie.Silverlight5.Web\bin\RMovie.Silverlight5.Web.pdb
+D:\DaumCloud\Windows8\RMovie\RMovie.Silverlight5.Web\obj\Release\RMovie.Silverlight5.Web.csprojResolveAssemblyReference.cache
+D:\DaumCloud\Windows8\RMovie\RMovie.Silverlight5.Web\obj\Release\RMovie.Silverlight5.Web.dll
+D:\DaumCloud\Windows8\RMovie\RMovie.Silverlight5.Web\obj\Release\RMovie.Silverlight5.Web.pdb

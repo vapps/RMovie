@@ -1,0 +1,15 @@
+﻿<xapCache source="D:\DaumCloud\Windows8\RMovie\RMovie.Silverlight5\Bin\Debug\RMovie.Silverlight5.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="2014-02-19 오후 11:37:03">
+  <file source="D:\DaumCloud\Windows8\RMovie\RMovie.Silverlight5\obj\Debug\RMovie.Silverlight5.dll" archivePath="RMovie.Silverlight5.dll" lastWriteTime="2014-02-19 오후 11:37:02" />
+  <file source="D:\DaumCloud\Windows8\RMovie\packages\Microsoft.CompilerServices.AsyncTargetingPack.1.0.0\lib\sl50\Microsoft.CompilerServices.AsyncTargetingPack.Silverlight5.dll" archivePath="Microsoft.CompilerServices.AsyncTargetingPack.Silverlight5.dll" lastWriteTime="2012-09-19 오후 5:49:30" />
+  <file source="D:\DaumCloud\Windows8\RMovie\packages\Newtonsoft.Json.4.5.9\lib\sl4\Newtonsoft.Json.dll" archivePath="Newtonsoft.Json.dll" lastWriteTime="2012-09-18 오후 5:50:13" />
+  <file source="D:\DaumCloud\Windows8\RMovie\RMovie.PCL\bin\Debug\RMovie.PCL.dll" archivePath="RMovie.PCL.dll" lastWriteTime="2014-02-19 오후 11:29:23" />
+  <file source="D:\DaumCloud\Windows8\RMovie\packages\SignalR.Client.Silverlight5.0.5.3\lib\sl50\SignalR.Client.Silverlight5.dll" archivePath="SignalR.Client.Silverlight5.dll" lastWriteTime="2012-09-19 오후 5:17:05" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.ComponentModel.DataAnnotations.dll" archivePath="System.ComponentModel.DataAnnotations.dll" lastWriteTime="2011-11-19 오전 9:40:20" />
+  <file source="D:\DaumCloud\Windows8\RMovie\packages\System.Threading.Tasks.3.0.2-beta2\lib\sl50\System.Threading.Tasks.SL5.dll" archivePath="System.Threading.Tasks.SL5.dll" lastWriteTime="2012-09-19 오후 5:17:05" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.Windows.Controls.Data.dll" archivePath="System.Windows.Controls.Data.dll" lastWriteTime="2011-11-19 오전 9:40:20" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.Windows.Controls.Data.Input.dll" archivePath="System.Windows.Controls.Data.Input.dll" lastWriteTime="2011-11-19 오전 9:40:20" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.Windows.Controls.dll" archivePath="System.Windows.Controls.dll" lastWriteTime="2011-11-19 오전 9:40:20" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.Windows.Controls.Navigation.dll" archivePath="System.Windows.Controls.Navigation.dll" lastWriteTime="2011-11-19 오전 9:40:20" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.Windows.Data.dll" archivePath="System.Windows.Data.dll" lastWriteTime="2011-11-19 오전 9:40:20" />
+  <file source="D:\DaumCloud\Windows8\RMovie\RMovie.Silverlight5\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2012-09-20 오후 10:35:44" />
+</xapCache>

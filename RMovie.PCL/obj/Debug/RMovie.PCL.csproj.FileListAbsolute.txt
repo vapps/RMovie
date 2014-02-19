@@ -1,0 +1,5 @@
+D:\DaumCloud\Windows8\RMovie\RMovie.PCL\bin\Debug\RMovie.PCL.dll
+D:\DaumCloud\Windows8\RMovie\RMovie.PCL\bin\Debug\RMovie.PCL.pdb
+D:\DaumCloud\Windows8\RMovie\RMovie.PCL\obj\Debug\RMovie.PCL.dll
+D:\DaumCloud\Windows8\RMovie\RMovie.PCL\obj\Debug\RMovie.PCL.pdb
+D:\DaumCloud\Windows8\RMovie\RMovie.PCL\obj\Debug\RMovie.PCL.csprojResolveAssemblyReference.cache

@@ -1,0 +1,1 @@
+D:\DaumCloud\Windows8\RMovie\RMovie.StoreApp\RMovie.StoreApp.csproj;neutral
